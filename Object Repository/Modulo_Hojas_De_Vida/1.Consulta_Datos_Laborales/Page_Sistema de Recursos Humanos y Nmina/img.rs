@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f83d0107-15a4-4d09-9a4a-403541af6bbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>527275f3-797b-4036-9c93-31e6a7eee597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Q7AON/imagenes/logoQrx.jpg</value>
+      <webElementGuid>afabd073-efc4-4532-82c0-29785e101a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;encabezado&quot;]/table[1]/tbody[1]/tr[1]/td[2]/img[1]</value>
+      <webElementGuid>75366438-b215-474a-8040-4fcd78109025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Modulo_Hojas_De_Vida/1.Consulta_Datos_Laborales/Page_Sistema de Recursos Humanos y Nmina/frame_html1frameset1frame1_encabezado</value>
+      <webElementGuid>f0037481-dda2-42b1-b81e-168288e38bbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/img</value>
+      <webElementGuid>1ca2b31e-5571-4b09-aae3-18a6c1940173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Q7AON/imagenes/logoQrx.jpg']</value>
+      <webElementGuid>a5220894-74ae-4feb-8c6a-0e5622dfa578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

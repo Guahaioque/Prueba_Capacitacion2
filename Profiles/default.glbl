@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL del Despliegue.</description>
+      <initValue>'https://softlandsql.com:8441/Q7AON/ingresar.do'</initValue>
+      <name>Despliegue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nombre del Usuario.</description>
+      <initValue>'SRHAON'</initValue>
+      <name>Login_Usuario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña Login.</description>
+      <initValue>'DxRrMALnQuAWq6dOlfDRkQ=='</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

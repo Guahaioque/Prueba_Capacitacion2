@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Datos Laborales</name>
+   <tag></tag>
+   <elementGuidId>32a8043e-9039-46e6-8f61-06e62262c080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#itemTextLink3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemTextLink3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8a157424-2636-463e-a54f-c94df2e95828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Q7AON/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.hdv.form.rhdatlab&amp;war=Q7AON&amp;ubicacion=com.hdv.form.&amp;objeto=rhdatlab&amp;tipo=FORMA&amp;titulo=Datos Laborales&amp;ayuda2=344&amp;seguridad=46259146&amp;QRX4=aa</value>
+      <webElementGuid>c9c35feb-7586-4787-9ee1-9df5f1a22fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>formas</value>
+      <webElementGuid>a3ad17d4-1c8a-4cd5-ac6f-003596e1ebaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>clickOnLink('3', '/Q7AON/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.hdv.form.rhdatlab&amp;war=Q7AON&amp;ubicacion=com.hdv.form.&amp;objeto=rhdatlab&amp;tipo=FORMA&amp;titulo=Datos Laborales&amp;ayuda2=344&amp;seguridad=46259146&amp;QRX4=aa','formas');return false;</value>
+      <webElementGuid>0025637d-9c83-4843-ab90-d45643dfb339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemTextLink3</value>
+      <webElementGuid>1fbb9bd0-9f32-408f-a95e-b2980e64c6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos Laborales</value>
+      <webElementGuid>e309b47a-754a-484e-8e63-2aee1cf8d262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemTextLink3&quot;)</value>
+      <webElementGuid>1925662c-f33c-4e66-9599-b82ad966080f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Modulo_Hojas_De_Vida/1.Consulta_Datos_Laborales/Page_Sistema de Recursos Humanos y Nmina/frame_html1frameset1frameset1frameset1frame2_menu</value>
+      <webElementGuid>c1a664ce-25b6-4778-9b49-4f67dceec55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='itemTextLink3']</value>
+      <webElementGuid>3670ad07-37eb-4010-8c53-3eb1200cb912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='item3']/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>f7729b33-5006-4530-93c7-c53626f435b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Datos Laborales')]</value>
+      <webElementGuid>b3db3c60-c939-4321-b83b-8c118a7fe444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos Personales'])[1]/following::a[2]</value>
+      <webElementGuid>841c19e4-13da-4799-99e6-2d21246d5996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMPLEADOS'])[1]/following::a[4]</value>
+      <webElementGuid>eb6f0d33-5c33-426b-a873-517748443805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experiencia Laboral'])[1]/preceding::a[2]</value>
+      <webElementGuid>fdbf10ff-3b1f-49ee-8ab3-663bbbe67e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiarios'])[1]/preceding::a[4]</value>
+      <webElementGuid>789bd5d7-c078-49bb-8c03-3b800436195c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Datos Laborales']/parent::*</value>
+      <webElementGuid>14ad02a2-fe16-4abf-80d7-162a2a49cf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/Q7AON/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.hdv.form.rhdatlab&amp;war=Q7AON&amp;ubicacion=com.hdv.form.&amp;objeto=rhdatlab&amp;tipo=FORMA&amp;titulo=Datos Laborales&amp;ayuda2=344&amp;seguridad=46259146&amp;QRX4=aa')])[2]</value>
+      <webElementGuid>4b10f6fd-c394-41c2-a8d8-9731abb656b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>862c87ac-b39e-41c4-a5c6-abbae2b11804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Q7AON/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.hdv.form.rhdatlab&amp;war=Q7AON&amp;ubicacion=com.hdv.form.&amp;objeto=rhdatlab&amp;tipo=FORMA&amp;titulo=Datos Laborales&amp;ayuda2=344&amp;seguridad=46259146&amp;QRX4=aa' and @id = 'itemTextLink3' and (text() = 'Datos Laborales' or . = 'Datos Laborales')]</value>
+      <webElementGuid>c303f0a1-cc74-4907-84e0-e50333345fc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

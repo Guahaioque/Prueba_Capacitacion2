@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tiene el Reconocimiento de Pensin Compa_42e214</name>
+   <tag></tag>
+   <elementGuidId>22075b43-73a2-4c25-bc8e-85890d26c963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='10']/div[12]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93c94055-11f8-46ae-bad4-207dedd80ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default_XButtonImageEnabled</value>
+      <webElementGuid>245e7326-130d-4a48-a734-f0d8d2cff643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;10&quot;)/div[@class=&quot;default_XButton&quot;]/div[@class=&quot;default_XButtonInnerButton&quot;]/div[@class=&quot;default_XButtonImageEnabled&quot;]</value>
+      <webElementGuid>1eea9e70-6e72-4585-b77d-f5c7c4699691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Modulo_Hojas_De_Vida/1.Consulta_Datos_Laborales/Page_Sistema de Recursos Humanos y Nmina/frame_formas</value>
+      <webElementGuid>f82abcf0-be76-4687-8b99-8b1a2c0d4bfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='10']/div[12]/div[3]/div</value>
+      <webElementGuid>8182f818-6d2e-462b-9609-6dc11854882c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[12]/div[3]/div</value>
+      <webElementGuid>da8a6c28-e10f-4f3a-adac-4238325dfcf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
